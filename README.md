@@ -1,1 +1,1 @@
-# readme.md
+In this scaning we use nmap -sS which are use for TCP SYN . TCP SYN stand for Transmission Control Protocol - Synchronize. In TCP (Transmission Control Protocol), SYN stands for Synchronize. It is a control flag used to initiate a TCP connection between two devices.
